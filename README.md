@@ -1,6 +1,7 @@
 # Bootcamp Santander 2025 — Ciência de Dados com Python 🚀
 
-![Bootcamp Santander 2025](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Banner](./assets/banner.png)
+
 
 
 ---
