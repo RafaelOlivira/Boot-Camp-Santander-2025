@@ -41,7 +41,7 @@ Este repositório documenta meu processo de aprendizado durante o Bootcamp Santa
 
 ## ✍️ Autor
 
-**Rafael** — entusiasta de dados, apaixonado por aprendizado contínuo e por transformar informação em conhecimento.
+**Rafael** — Apaixonado por Python e Ciência de Dados.
 
 ---
 
