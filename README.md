@@ -1,6 +1,7 @@
 # Bootcamp Santander 2025 — Ciência de Dados com Python 🚀
 
-![Banner do Bootcamp](https://intensivaon8n.autotic.com.br/ "Banner do Bootcamp")
+![Bootcamp Santander 2025](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+
 
 ---
 
