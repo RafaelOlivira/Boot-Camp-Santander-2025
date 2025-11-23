@@ -1,6 +1,6 @@
 # Bootcamp Santander 2025 — Ciência de Dados com Python 🚀
 
-![Banner](./assets/bootcamp-santander-n8n)
+![Banner](./assets/bootcamp-santander-n8n.png)
 
 
 
